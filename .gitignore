@@ -1,0 +1,5 @@
+venv/ 
+data/processed/ 
+*.pyc 
+.ipynb_checkpoints/ 
+__pycache__/ 
