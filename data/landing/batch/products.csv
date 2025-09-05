@@ -1,0 +1,11 @@
+﻿product_id,product_name,category,sub_category,brand,unit_price,launch_date,is_active
+P001,Tata Tea Gold,Beverages,Tea,Tata Tea,245,15-01-2020,TRUE
+P002,Tata Coffee Grand,Beverages,Coffee,Tata Coffee,185,10-06-2019,TRUE
+P003,Tata Sampann Toor Dal,Foods,Pulses,Tata Sampann,145,20-03-2021,TRUE
+P004,Tata Salt Lite,Foods,Salt,Tata Salt,28,12-04-2018,TRUE
+P005,Tetley Green Tea,Beverages,Tea,Tetley,120,05-11-2020,TRUE
+P006,Tata Sampann Chilli Powder,Foods,Spices,Tata Sampann,65,18-07-2021,TRUE
+P007,Eight O'Clock Coffee,Beverages,Coffee,Eight O'Clock,320,28-02-2022,TRUE
+P008,Himalayan Natural Water,Beverages,Water,Himalayan,20,15-09-2019,TRUE
+P009,Tata Soulfull Ragi Bites,Foods,Snacks,Tata Soulfull,40,10-05-2022,TRUE
+P010,Tata Tea Premium,Beverages,Tea,Tata Tea,152,01-01-2015,TRUE

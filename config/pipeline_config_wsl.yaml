@@ -1,0 +1,37 @@
+# config/pipeline_config_wsl.yaml - For use in WSL/Linux
+environment: dev
+
+paths:
+  base_path: "/mnt/c/Users/HP/Learning/DE_Development"
+  
+  landing:
+    base: "${paths.base_path}/data/landing"
+    batch: "${paths.base_path}/data/landing/batch"
+    streaming: "${paths.base_path}/data/landing/streaming"
+    api: "${paths.base_path}/data/landing/api"
+  
+  bronze:
+    base: "${paths.base_path}/data/bronze"
+    products: "${paths.base_path}/data/bronze/products"
+    sales: "${paths.base_path}/data/bronze/sales"
+    inventory: "${paths.base_path}/data/bronze/inventory"
+    events: "${paths.base_path}/data/bronze/events"
+  
+  silver:
+    base: "${paths.base_path}/data/silver"
+    sales_cleaned: "${paths.base_path}/data/silver/sales_cleaned"
+    products_master: "${paths.base_path}/data/silver/products_master"
+  
+  gold:
+    base: "${paths.base_path}/data/gold"
+    daily_sales_report: "${paths.base_path}/data/gold/daily_sales_report"
+
+spark:
+  app_name: "TataConsumerPipeline"
+  configs:
+    spark.sql.adaptive.enabled: "true"
+    spark.sql.shuffle.partitions: "200"
+
+processing:
+  batch_size: 10000
+  error_threshold: 0.1  # 10% error tolerance

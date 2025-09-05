@@ -1,0 +1,98 @@
+[
+  {
+    "warehouse_id": "WH001",
+    "location": "Mumbai",
+    "last_updated": "2024-01-15T10:30:00",
+    "product_id": "P001",
+    "quantity": 5000,
+    "reorder_level": 1000
+  },
+  {
+    "warehouse_id": "WH001",
+    "location": "Mumbai",
+    "last_updated": "2024-01-15T10:30:00",
+    "product_id": "P002",
+    "quantity": 3000,
+    "reorder_level": 500
+  },
+  {
+    "warehouse_id": "WH001",
+    "location": "Mumbai",
+    "last_updated": "2024-01-15T10:30:00",
+    "product_id": "P004",
+    "quantity": 10000,
+    "reorder_level": 2000
+  },
+  {
+    "warehouse_id": "WH002",
+    "location": "Delhi",
+    "last_updated": "2024-01-15T11:00:00",
+    "product_id": "P001",
+    "quantity": 4500,
+    "reorder_level": 1000
+  },
+  {
+    "warehouse_id": "WH002",
+    "location": "Delhi",
+    "last_updated": "2024-01-15T11:00:00",
+    "product_id": "P005",
+    "quantity": 2000,
+    "reorder_level": 400
+  },
+  {
+    "warehouse_id": "WH002",
+    "location": "Delhi",
+    "last_updated": "2024-01-15T11:00:00",
+    "product_id": "P010",
+    "quantity": 6000,
+    "reorder_level": 1500
+  },
+  {
+    "warehouse_id": "WH003",
+    "location": "Bangalore",
+    "last_updated": "2024-01-15T09:45:00",
+    "product_id": "P003",
+    "quantity": 8000,
+    "reorder_level": 1200
+  },
+  {
+    "warehouse_id": "WH003",
+    "location": "Bangalore",
+    "last_updated": "2024-01-15T09:45:00",
+    "product_id": "P006",
+    "quantity": 3500,
+    "reorder_level": 600
+  },
+  {
+    "warehouse_id": "WH003",
+    "location": "Bangalore",
+    "last_updated": "2024-01-15T09:45:00",
+    "product_id": "P007",
+    "quantity": 1500,
+    "reorder_level": 300
+  },
+  {
+    "warehouse_id": "WH004",
+    "location": "Chennai",
+    "last_updated": "2024-01-15T12:15:00",
+    "product_id": "P008",
+    "quantity": 12000,
+    "reorder_level": 3000
+  },
+  {
+    "warehouse_id": "WH004",
+    "location": "Chennai",
+    "last_updated": "2024-01-15T12:15:00",
+    "product_id": "P009",
+    "quantity": 4000,
+    "reorder_level": 800
+  },
+  {
+    "warehouse_id": "WH004",
+    "location": "Chennai",
+    "last_updated": "2024-01-15T12:15:00",
+    "product_id": "P004",
+    "quantity": 7500,
+    "reorder_level": 1500
+  }
+]
