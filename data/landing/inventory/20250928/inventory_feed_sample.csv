@@ -1,0 +1,13 @@
+inventory_date,product_name,store_id,inventory_qty
+28-09-2025,Tea,Store_01,1624
+28-09-2025,Tea,Store_02,551
+28-09-2025,Tea,Store_03,1690
+28-09-2025,Coffee,Store_01,1869
+28-09-2025,Coffee,Store_02,1015
+28-09-2025,Coffee,Store_03,940
+28-09-2025,Salt,Store_01,954
+28-09-2025,Salt,Store_02,1972
+28-09-2025,Salt,Store_03,1900
+28-09-2025,Spices,Store_01,1666
+28-09-2025,Spices,Store_02,1244
+28-09-2025,Spices,Store_03,548

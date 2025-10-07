@@ -9,6 +9,7 @@ paths:
     batch: "${paths.base_path}/data/landing/batch"
     streaming: "${paths.base_path}/data/landing/streaming"
     api: "${paths.base_path}/data/landing/api"
+    inventory: "${paths.base_path}/data/landing/inventory"
   
   bronze:
     base: "${paths.base_path}/data/bronze"

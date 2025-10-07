@@ -1,0 +1,13 @@
+sale_date,product_name,store_id,quantity_sold
+28-09-2025,Tea,Store_01,377
+28-09-2025,Tea,Store_02,426
+28-09-2025,Tea,Store_03,73
+28-09-2025,Coffee,Store_01,451
+28-09-2025,Coffee,Store_02,493
+28-09-2025,Coffee,Store_03,198
+28-09-2025,Salt,Store_01,474
+28-09-2025,Salt,Store_02,144
+28-09-2025,Salt,Store_03,181
+28-09-2025,Spices,Store_01,139
+28-09-2025,Spices,Store_02,385
+28-09-2025,Spices,Store_03,258
